@@ -1,0 +1,26 @@
+{
+  "name": "sih26035-nawi-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "lucide-react": "^0.364.0",
+    "next": "14.1.4",
+    "pg": "^8.11.3",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "localtunnel": "^2.0.2",
+    "puppeteer-core": "^24.43.1"
+  }
+}
